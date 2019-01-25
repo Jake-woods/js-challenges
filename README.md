@@ -8,4 +8,5 @@ Practicing my Javascript by finsihing challenges.
 |  [Reverse a String](https://github.com/Jake-woods/js-challenges/blob/master/scripts/reverse-a-string.js) | Enter a string and the program will reverse it and print it out.  |
 | [Count vowels](https://github.com/Jake-woods/js-challenges/blob/master/scripts/count-vowels.js)|Enter a string and the program counts the number of vowels in the text. For added complexity have it report a sum of each vowel found. |
 | [Palindrome](https://github.com/Jake-woods/js-challenges/blob/master/scripts/palindrome.js)  | Checks if the string entered by the user is a palindrome. That is that it reads the same forwards as backwards like “racecar” |
+|[Word counter](https://github.com/Jake-woods/js-challenges/blob/master/scripts/word-counter.js) |Counts the number of individual words in a string |
 
